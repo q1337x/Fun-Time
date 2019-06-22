@@ -1,3 +1,4 @@
+//It's Run only in Turbo c++
 #include<stdio.h>
 #include<conio.h>
 int mprint();
